@@ -1,6 +1,13 @@
 
+**/html
+**/rst
+**/pdf
 
 *.pdf
+
+*.png
+*.jpg
+*.gif
 
 
 *.xlsx
