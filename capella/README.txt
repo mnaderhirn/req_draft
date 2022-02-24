@@ -1,0 +1,1 @@
+20220202: this "capella" subfolder does not comply with the Capella file locations and cannot be used by capella! i.e. all capella project files .project <prjname>.afm <prjname>.aird <prjname>.capella must be placed in the <prjname> root!
