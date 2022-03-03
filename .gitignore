@@ -3,6 +3,7 @@
 **/rst
 **/pdf
 
+*.html
 *.pdf
 
 *.png
