@@ -10,4 +10,15 @@ REFS:
   VALUE: draft.c
 - TYPE: File
   VALUE: draft.tex
-  
+- TYPE: File
+  VALUE: fha.fods
+
+[REQUIREMENT]
+UID: REQ-002
+REFS:
+- TYPE: Parent
+  VALUE: REQ-001
+- TYPE: File
+  VALUE: draft.py
+- TYPE: File
+  VALUE: fha.fods
