@@ -9,6 +9,8 @@ REFS:
 - TYPE: File
   VALUE: draft.c
 - TYPE: File
+  VALUE: draft.cpp
+- TYPE: File
   VALUE: draft.tex
 - TYPE: File
   VALUE: fha.fods
